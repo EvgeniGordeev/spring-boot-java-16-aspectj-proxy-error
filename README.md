@@ -1,5 +1,10 @@
 # Spring Boot 2.4 example 
 
+_Required_: 
+
+* JDK 16
+* Maven 3.6.3
+
 To reproduce the issue run `mvn`:
 
 ```
