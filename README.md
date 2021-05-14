@@ -1,0 +1,1 @@
+# spring-boot-java-16-aspectj-proxy-error
